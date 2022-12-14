@@ -1,0 +1,20 @@
+id: AC9DD5A43
+title: Toh_106-Unravelling_the_Intent-v2
+type: translation
+pechas:
+- I55F6546B
+- I37F623FD
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-049-001
+  eft-text-version: 1.0.4 2021
+  title: Toh_106-Unravelling_the_Intent-v2
+alignment_to_base:
+  I55F6546B/8639: AC0F
+  I37F623FD/27AE: AC0F
